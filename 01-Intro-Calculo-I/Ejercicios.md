@@ -64,15 +64,15 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
     a- 0 = 
         i- cos(0)
-        ii- sen(0)
+        ii- sen(0) correcto
     b- 1 = 
-        i- cos(0)
+        i- cos(0) correcto
         ii- sen(0)
     c- -1 =
-        i- cos(90)
+        i- cos(90) correcto
         ii- sen(270)
     d- 0 =
-        i- cos(180)
+        i- cos(180) 
         ii- tg(180)
 
 **8)** Responde V o F.
