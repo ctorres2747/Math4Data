@@ -73,14 +73,14 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         ii- sen(270)
     d- 0 =
         i- cos(180) 
-        ii- tg(180)
+        ii- tg(180) correcto
 
 **8)** Responde V o F.
 
-    a- log(3+4) = log(7)
-    b- log(20) = log(10)+log(10)
-    c- 2*log(5) = log(25)
-    d- log(24) - 3*log(2) = log(3)
+    a- log(3+4) = log(7) correcto
+    b- log(20) = log(10)+log(10) incorrecto
+    c- 2*log(5) = log(25) incorrecto
+    d- log(24) - 3*log(2) = log(3) incorrecto
 
 **9)** Para cada gráfica, responde si V o F "es función":
 
