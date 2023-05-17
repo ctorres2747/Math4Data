@@ -116,7 +116,7 @@ i _ V
 
     -C 
         i- f(x)= x/3 
-        ii- f(x)= x/2 + 1
+        ii- f(x)= x/2 + 1 correcto
         iii- f(x)= 0.5 * x
         iv- f(x)= 0.3 * x + 2
 
