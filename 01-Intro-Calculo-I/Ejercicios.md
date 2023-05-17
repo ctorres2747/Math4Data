@@ -57,8 +57,8 @@ menor (redondea la respuesta a su PRIMER número decimal):
 
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
-    d- Cuántos grados mide el menor de los dos ángulos agudos?
-    e- Y el mayor?
+    d- Cuántos grados mide el menor de los dos ángulos agudos? 56,6
+    e- Y el mayor? 33,4
 
 **7)** Elige la opción correcta para cada caso.
 
