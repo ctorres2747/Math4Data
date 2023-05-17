@@ -87,6 +87,15 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 <img  src='./figuras/EX_9.png' height='270px'>
 <img  src='./figuras/EX_9b.png' height='150px'>
 
+a - F
+b - V
+c - F
+d - V
+e - F
+f - F
+g - V
+h - F
+i _ V
 
 **10)** Para cada tabla, elige la función correspondiente.
 
