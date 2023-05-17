@@ -93,7 +93,7 @@ c - F
 d - V
 e - F
 f - F
-g - V
+g - F
 h - F
 i _ V
 
