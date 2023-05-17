@@ -122,17 +122,17 @@ i _ V
 
 **11)** Sobre las funciones del ejercicio anterior, responde V o F.
 
-    -A  
+    -A  falso
         - pendiente = 4
         - ordenada al origen = 2
         - no es una recta
 
-    -B  
+    -B  falso
         - pendiente = 2
         - ordenada al origen = 0
         - no es una recta
 
-    -C  
+    -C  correcto
         - pendiente = 0.5
         - ordenada al origen = 1
         - no es una recta
