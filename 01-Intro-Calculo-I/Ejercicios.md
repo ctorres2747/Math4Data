@@ -6,7 +6,7 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     b- 4 N 
     c- -3.1 Ra
     d- -1/4 Ra
-    e- 10.0 Re
+    e- 10.0 N
     f- 2*e I
     g- -123.0004 Ra
 
