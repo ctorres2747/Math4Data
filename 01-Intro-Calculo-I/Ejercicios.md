@@ -79,7 +79,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
     a- log(3+4) = log(7) correcto
     b- log(20) = log(10)+log(10) incorrecto
-    c- 2*log(5) = log(25) incorrecto
+    c- 2*log(5) = log(25) correcto
     d- log(24) - 3*log(2) = log(3) incorrecto
 
 **9)** Para cada gráfica, responde si V o F "es función":
