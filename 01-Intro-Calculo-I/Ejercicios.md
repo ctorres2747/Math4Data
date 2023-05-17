@@ -51,9 +51,9 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 **6)** Para un triángulo rectángulo de cateto_1 = 2, cateto_2= 3 e hipotenusa = 3.6, responde sobre el ángulo
 menor (redondea la respuesta a su PRIMER número decimal):
 
-    a- Cuál es su seno?
-    b- Cuál es su coseno?
-    c- Cuál es su tangente?
+    a- Cuál es su seno? sen = 2/3.6
+    b- Cuál es su coseno? cos = 3/3.6
+    c- Cuál es su tangente? tan = 2/3
 
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
