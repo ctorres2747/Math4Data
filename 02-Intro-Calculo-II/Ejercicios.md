@@ -12,8 +12,8 @@
 
 **2)** Responde V o F - continuidad
 
-    a- La función g(j) = j + 3 es continua en todo su dominio
-    b- La función g(j) = 3 * j - 2 no esta definida en todo R
+    a- La función g(j) = j + 3 es continua en todo su dominio R Verdadero
+    b- La función g(j) = 3 * j - 2 no esta definida en todo R Verdadero
        f(x) = 1 - 1/x si x>0
               -3 si x<=0
        c- posee una discontinuidad evitable en x=0
