@@ -138,5 +138,6 @@ i _ V
         - no es una recta
 
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
-
+Pendiente:          -0.5
+Ordenada al orígen: 2
 <img  src='./figuras/EX_12.png' height='270px'>
