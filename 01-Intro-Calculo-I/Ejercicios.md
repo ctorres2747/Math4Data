@@ -104,7 +104,7 @@ i _ V
 
     -A 
         i- f(x)= 4*x+1
-        ii- f(x)= 3*x+2
+        ii- f(x)= 3*x+2 correcto
         iii- f(x)= 3*x+1
         iv- f(x)= 5*x
 
@@ -112,10 +112,10 @@ i _ V
         i- f(x)= 2*x
         ii- f(x)= x^2+1
         iii- f(x)= 4*x
-        iv- f(x)= x^2
+        iv- f(x)= x^2 correcto
 
     -C 
-        i- f(x)= x/3
+        i- f(x)= x/3 
         ii- f(x)= x/2 + 1
         iii- f(x)= 0.5 * x
         iv- f(x)= 0.3 * x + 2
