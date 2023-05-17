@@ -16,7 +16,7 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     a- 30% de 2000 R 600
     b- 2000% de 30 R 600
     c- 10% de 150 R 15 
-    d- 25.5% de 27 R 6.8
+    d- 25.5% de 27 R 6.9
     e- 25.5% de 0.9 R 0.2
 
 **3)** Calcula la relación porcentual entre los siguientes números y redondea la respuesta a su PRIMER número decimal. Ej: X% de 20 es 2 -> R: 10
