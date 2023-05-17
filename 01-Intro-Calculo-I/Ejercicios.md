@@ -30,8 +30,8 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 **4)** De shopping compré varias prendas por un valor de 350$. Había una promo del 30% sobre la cual se aplico luego
 un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la respuesta a su PRIMER número decimal.
 
-    a- De qué porcentaje fue el descuento con la tarjeta de fidelidad?
-    b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
+    a- De qué porcentaje fue el descuento con la tarjeta de fidelidad? 20%
+    b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad? promo 84 fidelidad 70
 
 
 **5)** Para cada medida en grados a continuación, responde con la letra que corresponde al ángulo de la figura.
