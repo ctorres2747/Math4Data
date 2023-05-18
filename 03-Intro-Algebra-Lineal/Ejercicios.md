@@ -29,10 +29,10 @@
     d- Si dos vectores son paralelos, el angulo entre ellos es 90 grados. R Falso
 
 **5)** ¿Que dimensiones tienen las siguientes matrices?
-
-    a- 5 filas y 7 columnas
-    b- 2 columnas y 9 filas
-    c- 3 filas y 3 columnas
+ 
+    a- 5 filas y 7 columnas R 5x7
+    b- 2 columnas y 9 filas R 9x2
+    c- 3 filas y 3 columnas R 3x3
 
 **6)** Responder con Si/No si es posible realizar las siguientes operaciones entre matrices:
 
