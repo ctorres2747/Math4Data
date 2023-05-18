@@ -40,7 +40,7 @@
     b- (1 x 1) + (1 x 1) Si
     c- (8 x 8) - (1 x 1) No
     d- (4 x 2) - (2 x 3) No
-    d- (4 x 2) * (2 x 3) No
+    d- (4 x 2) * (2 x 3) Si
 
 **7)** Realizar la multiplicación entre las siguientes matrices:
 
