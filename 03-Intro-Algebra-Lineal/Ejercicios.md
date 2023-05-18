@@ -16,10 +16,10 @@
 
 **3)** Resolver las siguientes multiplicaciones de vectores por escalares
 
-    a- (1,1) * 3
-    b- (12,15) * 1/3
-    c- (10,1) * 10
-    d- (4,5) * 5
+    a- (1,1) * 3 R (3,3)
+    b- (12,15) * 1/3 R (4, 5)
+    c- (10,1) * 10 R (100,10)
+    d- (4,5) * 5 R (20,25)
 
 **4)** Responder Verdadero o Falso
 
