@@ -23,10 +23,10 @@
 
 **4)** Responder Verdadero o Falso
 
-    a- El producto escalar de dos vectores obtiene multiplicando entre sí la norma de cada vector y el coseno del ángulo que se forma entre ellos.
-    b- El producto escalar siempre da como resultado un escalar.
-    c- El producto vectorial da como resultado otro vector.
-    d- Si dos vectores son paralelos, el angulo entre ellos es 90 grados.
+    a- El producto escalar de dos vectores obtiene multiplicando entre sí la norma de cada vector y el coseno del ángulo que se forma entre ellos. R Verdadero
+    b- El producto escalar siempre da como resultado un escalar. R Verdadero
+    c- El producto vectorial da como resultado otro vector. R Verdadero
+    d- Si dos vectores son paralelos, el angulo entre ellos es 90 grados. R Falso
 
 **5)** ¿Que dimensiones tienen las siguientes matrices?
 
