@@ -9,10 +9,10 @@
 
 **2)** ¿Cuál es el módulo de los siguientes vectores?
 
-    a- (3,4)
-    b- (1,1)
-    c- (10,10)
-    d- (-3,-4)
+    a- (3,4) R 5
+    b- (1,1) R 1.4
+    c- (10,10) R 14.1
+    d- (-3,-4) R 5
 
 **3)** Resolver las siguientes multiplicaciones de vectores por escalares
 
