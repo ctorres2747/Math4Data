@@ -1,7 +1,7 @@
 
 **1)** Responde Verdadero o Falso
 
-    a- Los vectores se pueden describir en base a su módulo y dirección R Falso
+    a- Los vectores se pueden describir en base a su módulo y dirección R Verdadero
     b- Los vectores se pueden describir en base a sus componentes cartesianos R Verdadero
     c- Dos vectores pueden tener misma dirección pero distinto sentido R Verdadero
     d- Dos vectores no pueden tener mismo módulo pero direcciones distintas R Falso
