@@ -49,6 +49,10 @@ a-
 <br>
 <br>
 <br>
+
+6   10
+-3  -5
+
 b-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto2.png)
 <br>
