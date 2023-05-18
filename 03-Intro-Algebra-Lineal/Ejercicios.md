@@ -36,11 +36,11 @@
 
 **6)** Responder con Si/No si es posible realizar las siguientes operaciones entre matrices:
 
-    a- (3 x 4) + (1 x 2)
-    b- (1 x 1) + (1 x 1)
-    c- (8 x 8) - (1 x 1)
-    d- (4 x 2) - (2 x 3)
-    d- (4 x 2) * (2 x 3)
+    a- (3 x 4) + (1 x 2) No 
+    b- (1 x 1) + (1 x 1) Si
+    c- (8 x 8) - (1 x 1) No
+    d- (4 x 2) - (2 x 3) No
+    d- (4 x 2) * (2 x 3) No
 
 **7)** Realizar la multiplicación entre las siguientes matrices:
 
